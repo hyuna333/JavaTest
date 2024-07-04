@@ -17,4 +17,6 @@ public class Phone {
         System.out.println(this.name + "님이 " + this.brand + "폰을 켰습니다.");
         System.out.println(this.str + " 폰 켜지는 중 " + this.str);
     }
+
+    void printLogo() {}
 }
