@@ -1,7 +1,7 @@
 public class Phone {
-    private String brand;
-    private String name;
-    private String str;
+    private final String brand;
+    private final String name;
+    private final String str;
 
     public Phone(String brand, String name, String str) {
         this.brand = brand;
